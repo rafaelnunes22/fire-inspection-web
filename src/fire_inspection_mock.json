@@ -1,0 +1,1243 @@
+{
+  "gerado_em": "2025-09-04T13:52:23.544289",
+  "clientes": [
+    {
+      "nome": "Condomínio Vila Paulista",
+      "endereco": "Av. Paulista, 1000 - Bela Vista, São Paulo - SP",
+      "latitude": -23.561142,
+      "longitude": -46.6579,
+      "areas": [
+        {
+          "nome": "Condomínio Vila Paulista - Cobertura",
+          "latitude": -23.56391,
+          "longitude": -46.655535,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-05-19",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-05-19",
+                "data_finalizacao": "2025-05-19",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-01",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-04-03",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-04-03",
+                "data_finalizacao": "2025-04-03",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-04",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-05-13",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-05-13",
+                "data_finalizacao": "2025-05-17",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-24",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-07-26",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-07-26",
+                "data_finalizacao": "2025-07-31",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-09",
+                "alerta": null
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Condomínio Vila Paulista - Cobertura",
+          "latitude": -23.55657,
+          "longitude": -46.659534,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-21",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-05-10",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-05-10",
+                "data_finalizacao": "2025-05-14",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-12-01",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": "2025-04-16",
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": "2025-04-16",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-23",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-07-17",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-07-17",
+                "data_finalizacao": "2025-07-22",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-28",
+                "alerta": "Atraso > 7 dias"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Condomínio Vila Paulista - Edifício 1",
+          "latitude": -23.55629,
+          "longitude": -46.654347,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-06-25",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-06-25",
+                "data_finalizacao": "2025-06-28",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-20",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": "2025-06-06",
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": "2025-06-06",
+                "data_finalizacao": "2025-06-07",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-02",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-03-26",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-03-26",
+                "data_finalizacao": "2025-03-27",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-05",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-05-30",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-05-30",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-25",
+                "alerta": "Atraso > 7 dias"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Shopping Atlântico",
+      "endereco": "R. Barata Ribeiro, 500 - Copacabana, Rio de Janeiro - RJ",
+      "latitude": -22.970362,
+      "longitude": -43.185429,
+      "areas": [
+        {
+          "nome": "Shopping Atlântico - Cobertura",
+          "latitude": -22.967144,
+          "longitude": -43.182378,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": "2025-08-19",
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": "2025-08-19",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-16",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-03-21",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-03-21",
+                "data_finalizacao": "2025-03-24",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-30",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-06-29",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-06-29",
+                "data_finalizacao": "2025-06-30",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-15",
+                "alerta": "Falha crítica"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-09-25",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de alarme",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-23",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-006",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-03-14",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-03-14",
+                "data_finalizacao": "2025-03-17",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-23",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-007",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-05-08",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-05-08",
+                "data_finalizacao": "2025-05-12",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-14",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-008",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-09",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-009",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": "2025-06-21",
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": "2025-06-21",
+                "data_finalizacao": "2025-06-24",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-08-05",
+                "alerta": "Falha crítica"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Shopping Atlântico - Subsolo",
+          "latitude": -22.970285,
+          "longitude": -43.189364,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-03-25",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-03-25",
+                "data_finalizacao": "2025-03-29",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-08-24",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-07-25",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-07-25",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-12-01",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-06-14",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-06-14",
+                "data_finalizacao": "2025-06-17",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-12-01",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-06-18",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-06-18",
+                "data_finalizacao": "2025-06-19",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-25",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": "2025-05-03",
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": "2025-05-03",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-12",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-006",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-05-06",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-05-06",
+                "data_finalizacao": "2025-05-10",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-11",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-007",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-04-19",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-04-19",
+                "data_finalizacao": "2025-04-24",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-04",
+                "alerta": "Falha crítica"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Hospital Santa Clara",
+      "endereco": "Av. Cristiano Machado, 1200 - Belo Horizonte - MG",
+      "latitude": -19.866004,
+      "longitude": -43.925813,
+      "areas": [
+        {
+          "nome": "Hospital Santa Clara - Ala Sul",
+          "latitude": -19.862008,
+          "longitude": -43.926298,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-08-19",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-08-19",
+                "data_finalizacao": "2025-08-21",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-14",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-07-10",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-07-10",
+                "data_finalizacao": "2025-07-10",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-24",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-08-18",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-08-18",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-08-14",
+                "alerta": "Falha crítica"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-05-03",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-05-03",
+                "data_finalizacao": "2025-05-04",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-05",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-05-06",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-05-06",
+                "data_finalizacao": "2025-05-09",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-08-17",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-006",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": "2025-05-19",
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": "2025-05-19",
+                "data_finalizacao": "2025-05-22",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-06",
+                "alerta": null
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Hospital Santa Clara - Bloco B",
+          "latitude": -19.870398,
+          "longitude": -43.923531,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-07-17",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-07-17",
+                "data_finalizacao": "2025-07-18",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-08-22",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-06-25",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-06-25",
+                "data_finalizacao": "2025-06-28",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-12-01",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-04-17",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-04-17",
+                "data_finalizacao": "2025-04-17",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-13",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": "2025-07-06",
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": "2025-07-06",
+                "data_finalizacao": "2025-07-07",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-05",
+                "alerta": "Atraso > 7 dias"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Hospital Santa Clara - Ala Norte",
+          "latitude": -19.86198,
+          "longitude": -43.929167,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-06-29",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-06-29",
+                "data_finalizacao": "2025-07-02",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-02",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-07-18",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-07-18",
+                "data_finalizacao": "2025-07-20",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-08-12",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-06-16",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-06-16",
+                "data_finalizacao": "2025-06-16",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-05",
+                "alerta": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fábrica Horizonte",
+      "endereco": "Rod. do Açúcar, km 120 - Sorocaba - SP",
+      "latitude": -23.503472,
+      "longitude": -47.452569,
+      "areas": [
+        {
+          "nome": "Fábrica Horizonte - Bloco B",
+          "latitude": -23.502522,
+          "longitude": -47.450817,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-08-05",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-08-05",
+                "data_finalizacao": "2025-08-09",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-20",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-08-15",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-08-15",
+                "data_finalizacao": "2025-08-18",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-16",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-09-04",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-03-23",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-03-23",
+                "data_finalizacao": "2025-03-25",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-12-01",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-08-17",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-006",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de alarme",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-25",
+                "alerta": "Atraso > 7 dias"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Fábrica Horizonte - Edifício 2",
+          "latitude": -23.505623,
+          "longitude": -47.453187,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-03-21",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-03-21",
+                "data_finalizacao": "2025-03-25",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-17",
+                "alerta": "Falha crítica"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-08-09",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-08-09",
+                "data_finalizacao": "2025-08-10",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-26",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-04-16",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-04-16",
+                "data_finalizacao": "2025-04-17",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-21",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-06-09",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-06-09",
+                "data_finalizacao": "2025-06-10",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-22",
+                "alerta": "Falha crítica"
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de alarme",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-21",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-006",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-06-26",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-06-26",
+                "data_finalizacao": "2025-06-26",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-11",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-007",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-06-29",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-06-29",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-14",
+                "alerta": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Data Center Sul",
+      "endereco": "Av. Ipiranga, 200 - Porto Alegre - RS",
+      "latitude": -30.034653,
+      "longitude": -51.22882,
+      "areas": [
+        {
+          "nome": "Data Center Sul - Bloco A",
+          "latitude": -30.031307,
+          "longitude": -51.227995,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-08-03",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-08-03",
+                "data_finalizacao": "2025-08-03",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-28",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": "2025-07-13",
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": "2025-07-13",
+                "data_finalizacao": "2025-07-18",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-08-18",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-08",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-08-08",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-16",
+                "alerta": null
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Data Center Sul - Bloco B",
+          "latitude": -30.035827,
+          "longitude": -51.233433,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-07-15",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-07-15",
+                "data_finalizacao": "2025-07-18",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-18",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-08-29",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-08-29",
+                "data_finalizacao": "2025-09-03",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-16",
+                "alerta": "Falha crítica"
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-08-18",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-08-18",
+                "data_finalizacao": "2025-08-20",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-09",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-04-20",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-04-20",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-08-19",
+                "alerta": "Falha crítica"
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Extintor",
+              "atividade": {
+                "data": "2025-04-09",
+                "descricao": "Inspeção de extintor",
+                "data_inicio": "2025-04-09",
+                "data_finalizacao": "2025-04-11",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-20",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-006",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": "2025-06-16",
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": "2025-06-16",
+                "data_finalizacao": "2025-06-19",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-09",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-007",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-04-10",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-04-10",
+                "data_finalizacao": "2025-04-11",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-03",
+                "alerta": "Risco elétrico próximo"
+              }
+            },
+            {
+              "nome": "Equip-008",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": "2025-04-24",
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": "2025-04-24",
+                "data_finalizacao": "2025-04-28",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-12-03",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-009",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-30",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-010",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-08",
+                "alerta": "Risco elétrico próximo"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Aeroporto Costa Azul",
+      "endereco": "Rod. BR-101, km 10 - Serra - ES",
+      "latitude": -20.121795,
+      "longitude": -40.306611,
+      "areas": [
+        {
+          "nome": "Aeroporto Costa Azul - Cobertura",
+          "latitude": -20.122591,
+          "longitude": -40.302208,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-04-12",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-04-12",
+                "data_finalizacao": "2025-04-14",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-19",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Sprinkler",
+              "atividade": {
+                "data": "2025-06-23",
+                "descricao": "Inspeção de sprinkler",
+                "data_inicio": "2025-06-23",
+                "data_finalizacao": "2025-06-24",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-18",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Detector de Fumaça",
+              "atividade": {
+                "data": "2025-05-14",
+                "descricao": "Inspeção de detector de fumaça",
+                "data_inicio": "2025-05-14",
+                "data_finalizacao": "2025-05-17",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-09",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-07-23",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-07-23",
+                "data_finalizacao": "2025-07-28",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-09",
+                "alerta": "Reinspeção urgente"
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": "2025-07-06",
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": "2025-07-06",
+                "data_finalizacao": "2025-07-11",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-16",
+                "alerta": "Atraso > 7 dias"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "Aeroporto Costa Azul - Subsolo",
+          "latitude": -20.126551,
+          "longitude": -40.309163,
+          "equipamentos": [
+            {
+              "nome": "Equip-001",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": "2025-08-17",
+                "descricao": "Inspeção de alarme",
+                "data_inicio": "2025-08-17",
+                "data_finalizacao": "2025-08-20",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-10-24",
+                "alerta": "Atraso > 7 dias"
+              }
+            },
+            {
+              "nome": "Equip-002",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-03-10",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-03-10",
+                "data_finalizacao": "2025-03-13",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-05",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-003",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-03-12",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-03-12",
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-11-23",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-004",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-05-19",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-05-19",
+                "data_finalizacao": "2025-05-20",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-02",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-005",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-08-20",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-006",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-04-22",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-04-22",
+                "data_finalizacao": "2025-04-26",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-11-09",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-007",
+              "tipo": "Alarme",
+              "atividade": {
+                "data": null,
+                "descricao": "Inspeção de alarme",
+                "data_inicio": null,
+                "data_finalizacao": null,
+                "status": "pendente",
+                "data_proxima_inspecao": "2025-10-14",
+                "alerta": null
+              }
+            },
+            {
+              "nome": "Equip-008",
+              "tipo": "Bomba de Incêndio",
+              "atividade": {
+                "data": "2025-05-06",
+                "descricao": "Inspeção de bomba de incêndio",
+                "data_inicio": "2025-05-06",
+                "data_finalizacao": "2025-05-09",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-05",
+                "alerta": "Falha crítica"
+              }
+            },
+            {
+              "nome": "Equip-009",
+              "tipo": "Porta Corta-Fogo",
+              "atividade": {
+                "data": "2025-04-24",
+                "descricao": "Inspeção de porta corta-fogo",
+                "data_inicio": "2025-04-24",
+                "data_finalizacao": "2025-04-27",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-09",
+                "alerta": "Baixa pressão de água"
+              }
+            },
+            {
+              "nome": "Equip-010",
+              "tipo": "Hidrante",
+              "atividade": {
+                "data": "2025-06-23",
+                "descricao": "Inspeção de hidrante",
+                "data_inicio": "2025-06-23",
+                "data_finalizacao": "2025-06-24",
+                "status": "concluida",
+                "data_proxima_inspecao": "2025-09-14",
+                "alerta": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
